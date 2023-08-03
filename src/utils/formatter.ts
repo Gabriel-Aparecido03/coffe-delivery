@@ -1,0 +1,1 @@
+export const coinFormatter =  new Intl.NumberFormat('pt-br',{ style : 'currency', currency : 'BRL' })
